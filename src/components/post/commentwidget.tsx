@@ -2,7 +2,7 @@ import React, { FunctionComponent, createRef, useEffect } from "react"
 import styled from "@emotion/styled"
 
 const src = 'https://utteranc.es/client.js'
-const repo = 'bopboy/blog-with-gatsby'
+const repo = 'bopboy/blog2'
 
 const UtterancesWrapper = styled.div`
     @media(max-width:768px) {
