@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog-with-gatsby.github.io/sitemap/sitemap-index.xml
-Host: https://blog-with-gatsby.github.io
+Sitemap: https://bopboy2.github.io/sitemap/sitemap-index.xml
+Host: https://bopboy2.github.io
