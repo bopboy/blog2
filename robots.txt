@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://bopboy2.github.io/sitemap/sitemap-index.xml
-Host: https://bopboy2.github.io
+Sitemap: https://bopboy.github.io/sitemap/sitemap-index.xml
+Host: https://bopboy.github.io
