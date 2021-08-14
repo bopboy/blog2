@@ -3,7 +3,7 @@ module.exports = {
     title: `bopboy blog`,
     description: `bopboy test blog`,
     author: `bopboy`,
-    siteUrl: `https://bopboy2.github.io`,
+    siteUrl: `https://bopboy.github.io`,
   },
   plugins: [
     {
@@ -39,7 +39,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https:///bopboy2.github.io`,
+        siteUrl: `https:///bopboy.github.io`,
         stripQueryString: true,
       },
     },
